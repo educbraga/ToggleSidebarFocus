@@ -1,0 +1,4 @@
+{
+    "keys": ["super+k"],
+    "command": "toggle_sidebar_and_focus"
+},
