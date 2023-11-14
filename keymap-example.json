@@ -1,4 +1,4 @@
 {
-    "keys": ["super+k"],
+    "keys": ["super+l"],
     "command": "toggle_sidebar_and_focus"
 },
