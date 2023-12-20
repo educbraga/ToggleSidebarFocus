@@ -12,6 +12,6 @@ Open your `sublime-keymap` file from `Preferences -> Key Bindings` in Sublime Te
 
 ```json
 {
-    "keys": ["super+l"],
+    "keys": ["super+enter"],
     "command": "toggle_sidebar_and_focus"
 },
