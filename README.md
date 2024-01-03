@@ -1,4 +1,4 @@
-# SublimeText ToggleSidebarFocus
+# Sublime Text ToggleSidebarFocus
 
 A plugin for Sublime Text that allows you to open, focus, and close the sidebar using the same keyboard shortcut.
 
