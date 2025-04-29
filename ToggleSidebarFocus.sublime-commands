@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "View: Toggle SideBar and Focus",
+        "command": "toggle_sidebar_and_focus"
+    }
+]
