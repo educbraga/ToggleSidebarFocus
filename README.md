@@ -14,4 +14,7 @@ Open your `sublime-keymap` file from `Preferences -> Key Bindings` in Sublime Te
 {
     "keys": ["super+enter"],
     "command": "toggle_sidebar_and_focus"
-},
+}
+```
+
+The command is also available in the Command Palette as **View: Toggle SideBar and Focus**.
