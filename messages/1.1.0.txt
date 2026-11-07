@@ -1,12 +1,17 @@
 ToggleSidebarFocus 1.1.0
 ========================
 
-New
-- "View: Toggle SideBar and Focus" is available in the Command Palette.
-  Thanks to Andrew Davis.
+One shortcut to show, focus and hide the sidebar.
 
-Fixed
-- In a window with no folder open, the sidebar now shows the open files
-  instead of staying hidden. Thanks to Andrew Davis.
-- The README and keymap-example.json key binding examples are valid JSON
-  and use the same shortcut.
+What's new
+- Command Palette: run "View: Toggle SideBar and Focus" without setting up
+  a key binding first.
+- Windows with no folder open: the sidebar now shows your open files
+  instead of staying hidden.
+
+Key binding
+Open Preferences > Key Bindings and add:
+
+    { "keys": ["super+enter"], "command": "toggle_sidebar_and_focus" }
+
+Thanks to Andrew Davis for both improvements.
